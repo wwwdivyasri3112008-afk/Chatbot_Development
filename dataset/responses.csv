@@ -1,0 +1,4 @@
+id,query_id,response
+1,1,A local LLM chatbot processes user prompts locally via Ollama and manages state in memory.
+2,2,Conversation history is maintained by passing prior messages to the model.
+3,3,The project can be extended with LangChain for additional chatbot functionality.
